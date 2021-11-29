@@ -20,6 +20,9 @@ Practicing my frontend skill.
          <li>
             <h3>Order-Summary-Card =><a href="https://jovial-einstein-387599.netlify.app/">Live Here</a> this one is not good coding style and UI/UX</h3>
         </li>
+        <li>
+            <h3>article-preview-component-master =><a href="https://adoring-jackson-ff66ea.netlify.app/">Live Here</a>  Not responsive one </h3>
+        </li>
     </ul>
 
 
