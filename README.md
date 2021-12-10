@@ -18,4 +18,7 @@ Practicing my frontend skill.
         <li>
             <h3>article-preview-component-master =><a href="https://adoring-jackson-ff66ea.netlify.app/">Live Here</a>  Not responsive one </h3>
         </li>
+         <li>
+            <h3>single-price-grid-component-master =><a href="https://optimistic-ramanujan-6fd025.netlify.app/">Live Here</a></h3>
+        </li>
     </ul>
