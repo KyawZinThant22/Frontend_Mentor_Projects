@@ -21,4 +21,7 @@ Practicing my frontend skill.
          <li>
             <h3>single-price-grid-component-master =><a href="https://optimistic-ramanujan-6fd025.netlify.app/">Live Here</a></h3>
         </li>
+   <li>
+            <h3>social-media-dashboard-master =>  <a href="https://pensive-roentgen-9553f1.netlify.app/">Live Here</a></h3>
+        </li>
     </ul>

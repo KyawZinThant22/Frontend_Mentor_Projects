@@ -15,6 +15,10 @@ body {
     background-color: hsl(227, 47%, 96%);
 }
 
+.card-color:hover{
+    background-color: hsl(227, 47%, 93%);
+}
+
 .card {
     border: 0;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
